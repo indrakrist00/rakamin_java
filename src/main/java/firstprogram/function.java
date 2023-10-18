@@ -12,6 +12,7 @@ public class function {
         tambah(y,z);
         panggil_fungsi.citra();
         panggil_fungsi.indra("indra");
+        panggil_fungsi.indra("joko");
     }
 
     public static int tambah (int a, int b){
